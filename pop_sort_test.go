@@ -1,0 +1,27 @@
+package alg
+
+import (
+	"testing"
+	"fmt"
+)
+
+type SortItem int
+
+func (s SortItem)lt(other Compareable)bool {
+	return int(s) < int(other.(SortItem))
+}
+func (s SortItem)bg(other Compareable)bool {
+	return int(s) > int(other.(SortItem))
+}
+
+func (s SortItem)eq(other Compareable)bool {
+	return int(s) == int(other.(SortItem))
+}
+
+func TestPopDescSort(t *testing.T)  {
+	sortItem := []Compareable{SortItem(2),SortItem(3),SortItem(4),SortItem(123),SortItem(23),SortItem(32),SortItem(365),SortItem(38),SortItem(87)}
+	sortedItem := pop_asc_sort(sortItem)
+	for _,item := range sortedItem  {
+		fmt.Println(item)
+	}
+}
