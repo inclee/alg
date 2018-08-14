@@ -8,14 +8,14 @@ func MinInt(a int,b int) (int){
 }
 
 func Min(a Compareable,b Compareable)(v Compareable){
-	if a.lt(b){
+	if a.Lt(b){
 		return a
 	}
 	return b
 }
 
 func Max(a Compareable,b Compareable)(v Compareable){
-	if a.bg(b){
+	if a.Bg(b){
 		return a
 	}
 	return b

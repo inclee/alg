@@ -5,7 +5,7 @@ func quick_desc_sort(src []Compareable)(targt []Compareable) {
 		base_idx := 0
 		base := src[0]
 		for i:= 1 ;i < len(src);i++ {
-			if base.lt(src[i]){
+			if base.Lt(src[i]){
 				tmp := src[i]
 				for j:= i;j>base_idx;j--{
 					src[j] = src[j-1]
@@ -28,7 +28,7 @@ func quick_asc_sort(src []Compareable)(targt []Compareable) {
 		base_idx := 0
 		base := src[0]
 		for i:= 1 ;i < len(src);i++  {
-			if base.bg(src[i]){
+			if base.Bg(src[i]){
 				tmp := src[i]
 				for j:= i;j>base_idx;j--{
 					src[j] = src[j-1]

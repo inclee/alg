@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf6a814-575d-439c-a753-e3af6b21fa15" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/comparable.go" beforeDir="false" afterPath="$PROJECT_DIR$/comparable.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funnel_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/funnel_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/math.go" beforeDir="false" afterPath="$PROJECT_DIR$/math.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pop_sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/pop_sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pop_sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pop_sort_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +19,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="quick_sort.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quick_sort.go">
+      <file leaf-file-name="binary_search_tree.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_search_tree.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="662">
+              <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quick_sort_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quick_sort_test.go">
+      <file leaf-file-name="binary_search_tree_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_search_tree_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="e#13#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shell_sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shell_sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shell_sort_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shell_sort_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#13#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comparable.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comparable.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quick_sort_test.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quick_sort_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <element signature="e#13#41#0" expanded="true" />
               </folding>
@@ -37,17 +85,35 @@
       <file leaf-file-name="queue_test.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/queue_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="247">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pop_sort_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pop_sort_test.go">
+      <file leaf-file-name="testing.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/testing/testing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="129">
+              <caret line="728" selection-start-line="728" selection-end-line="728" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quick_sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quick_sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panic.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/runtime/panic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="504" selection-start-line="504" selection-end-line="504" />
             </state>
           </provider>
         </entry>
@@ -75,13 +141,22 @@
         <option value="$PROJECT_DIR$/queue.go" />
         <option value="$PROJECT_DIR$/test main.go" />
         <option value="$PROJECT_DIR$/funnel.go" />
-        <option value="$PROJECT_DIR$/funnel_test.go" />
+        <option value="$PROJECT_DIR$/tree/birnary_search_tree.go" />
         <option value="$PROJECT_DIR$/pop_sort.go" />
-        <option value="$PROJECT_DIR$/comparable.go" />
+        <option value="$PROJECT_DIR$/tree/birnary_search_tree_test.go" />
         <option value="$PROJECT_DIR$/pop_sort_test.go" />
+        <option value="$PROJECT_DIR$/comparable.go" />
+        <option value="$PROJECT_DIR$/birnary_search_tree_test.go" />
+        <option value="$PROJECT_DIR$/funnel_test.go" />
         <option value="$PROJECT_DIR$/math.go" />
-        <option value="$PROJECT_DIR$/quick_sort_test.go" />
         <option value="$PROJECT_DIR$/quick_sort.go" />
+        <option value="$PROJECT_DIR$/birnary_search_tree.go" />
+        <option value="$PROJECT_DIR$/binary_search_tree.go" />
+        <option value="$PROJECT_DIR$/binary_search_tree_test.go" />
+        <option value="$PROJECT_DIR$/shell_short.go" />
+        <option value="$PROJECT_DIR$/shell_sort_test.go" />
+        <option value="$PROJECT_DIR$/shell_sort.go" />
+        <option value="$PROJECT_DIR$/quick_sort_test.go" />
       </list>
     </option>
   </component>
@@ -95,10 +170,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="62" />
-    <option name="width" value="1280" />
-    <option name="height" value="741" />
+    <option name="x" value="304" />
+    <option name="y" value="557" />
+    <option name="width" value="1093" />
+    <option name="height" value="672" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -131,6 +206,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -148,7 +226,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Go Test.TestQuickSortTest in github.com/inclee/alg">
-    <configuration name="TestNewFunel in github.com/inclee/alg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBSTree in github.com/inclee/alg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="alg" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
@@ -157,7 +235,7 @@
       <package value="github.com/inclee/alg" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestNewFunel$" />
+      <pattern value="^TestBSTree$" />
     </configuration>
     <configuration name="TestPopDescSort in github.com/inclee/alg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="alg" />
@@ -181,7 +259,7 @@
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestQuickSortTest$" />
     </configuration>
-    <configuration name="TestTimer in github.com/inclee/alg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestShellSort in github.com/inclee/alg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="alg" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
@@ -190,7 +268,7 @@
       <package value="github.com/inclee/alg" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestTimer$" />
+      <pattern value="^TestShellSort$" />
     </configuration>
     <configuration name="funnel_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="alg" />
@@ -203,70 +281,79 @@
       <filePath value="$PROJECT_DIR$/funnel_test.go" />
     </configuration>
     <list>
-      <item itemvalue="Go Test.TestNewFunel in github.com/inclee/alg" />
-      <item itemvalue="Go Test.TestTimer in github.com/inclee/alg" />
       <item itemvalue="Go Test.funnel_test.go" />
       <item itemvalue="Go Test.TestPopDescSort in github.com/inclee/alg" />
       <item itemvalue="Go Test.TestQuickSortTest in github.com/inclee/alg" />
+      <item itemvalue="Go Test.TestBSTree in github.com/inclee/alg" />
+      <item itemvalue="Go Test.TestShellSort in github.com/inclee/alg" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.TestQuickSortTest in github.com/inclee/alg" />
+        <item itemvalue="Go Test.TestShellSort in github.com/inclee/alg" />
+        <item itemvalue="Go Test.TestBSTree in github.com/inclee/alg" />
         <item itemvalue="Go Test.TestPopDescSort in github.com/inclee/alg" />
         <item itemvalue="Go Test.funnel_test.go" />
-        <item itemvalue="Go Test.TestNewFunel in github.com/inclee/alg" />
-        <item itemvalue="Go Test.TestTimer in github.com/inclee/alg" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNewFunel_in_github_com_inclee_alg - 2018.08.06 at 16h 21m 27s.xml">
-      <configuration name="TestNewFunel in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 14h 48m 10s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestNewFunel_in_github_com_inclee_alg - 2018.08.06 at 16h 25m 35s.xml">
-      <configuration name="TestNewFunel in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 14h 50m 00s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestNewFunel_in_github_com_inclee_alg - 2018.08.06 at 16h 26m 02s.xml">
-      <configuration name="TestNewFunel in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 15h 05m 34s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="funnel_test_go - 2018.08.06 at 16h 27m 38s.xml">
-      <configuration name="funnel_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 15h 06m 16s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestPopDescSort_in_github_com_inclee_alg - 2018.08.10 at 14h 26m 59s.xml">
-      <configuration name="TestPopDescSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 19h 22m 43s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestPopDescSort_in_github_com_inclee_alg - 2018.08.10 at 14h 31m 24s.xml">
-      <configuration name="TestPopDescSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 19h 24m 59s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestPopDescSort_in_github_com_inclee_alg - 2018.08.10 at 14h 55m 42s.xml">
-      <configuration name="TestPopDescSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 19h 25m 14s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestPopDescSort_in_github_com_inclee_alg - 2018.08.10 at 14h 56m 54s.xml">
-      <configuration name="TestPopDescSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestShellSort_in_github_com_inclee_alg - 2018.08.13 at 19h 26m 59s.xml">
+      <configuration name="TestShellSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestPopDescSort_in_github_com_inclee_alg - 2018.08.10 at 15h 45m 37s.xml">
-      <configuration name="TestPopDescSort in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestQuickSortTest_in_github_com_inclee_alg - 2018.08.13 at 19h 27m 11s.xml">
+      <configuration name="TestQuickSortTest in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQuickSortTest_in_github_com_inclee_alg - 2018.08.10 at 21h 09m 51s.xml">
+    <history-entry file="TestQuickSortTest_in_github_com_inclee_alg - 2018.08.13 at 19h 27m 36s.xml">
       <configuration name="TestQuickSortTest in github.com/inclee/alg" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="62" width="1280" height="741" extended-state="0" />
+    <frame x="304" y="557" width="1093" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982873" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3026087" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36956522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,8 +377,20 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/shell_sort.go</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/shell_sort.go</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -309,33 +408,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="741" selection-start-line="741" selection-end-line="741" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test main.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/funnel.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-          <folding>
-            <element signature="e#14#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queue.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#13#38#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -346,65 +425,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/funnel_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#13#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comparable.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pop_sort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queue_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pop_sort_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quick_sort_test.go">
+    <entry file="file://$PROJECT_DIR$/funnel.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#13#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funnel_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="504" selection-start-line="504" selection-end-line="504" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="728" selection-start-line="728" selection-end-line="728" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search_tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search_tree_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="e#13#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/queue_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quick_sort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#13#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick_sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#13#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

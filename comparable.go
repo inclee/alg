@@ -1,7 +1,20 @@
 package alg
 
 type Compareable interface {
-	bg(c Compareable)bool
-	lt(c Compareable)bool
-	eq(c Compareable)bool
+	Bg(c Compareable)bool
+	Lt(c Compareable)bool
+	Eq(c Compareable)bool
+}
+
+type SortItem int
+
+func (s SortItem)Lt(other Compareable)bool {
+	return int(s) < int(other.(SortItem))
+}
+func (s SortItem)Bg(other Compareable)bool {
+	return int(s) > int(other.(SortItem))
+}
+
+func (s SortItem)Eq(other Compareable)bool {
+	return int(s) == int(other.(SortItem))
 }
