@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+
 type Funnel struct {
 	capcity uint
 	leftOpt uint
